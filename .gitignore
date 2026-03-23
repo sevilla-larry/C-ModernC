@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Generated Assembly file
+*.s
+
 # Object files
 *.o
 *.ko
